@@ -10,3 +10,4 @@ class ircMessage
 		string host;
 		bool isChatRoom;
 };
+fgdgvadsfgasdfgasdg
